@@ -7,3 +7,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: auto;
+  padding-bottom: 2rem;
+  gap: 0.5rem;
+}

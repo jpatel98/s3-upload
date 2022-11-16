@@ -1,7 +1,7 @@
 # s3-upload
 Code snippet to store your web app's image files in an s3 bucket by uploading them directly to the bucket.
 
-_Instructions on setting up AWS bucket and IAM user:_ https://www.jigarpatel.xyz/blog/projects/s3-upload
+_Instructions on setting up AWS bucket and IAM user:_ https://www.jigarpatel.xyz/blog/s3-upload
 
 ## Environment Variables
 ```
